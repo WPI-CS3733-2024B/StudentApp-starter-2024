@@ -17,7 +17,7 @@ flask db upgrade
 ### To run the application :
 - Start the application by running one of the following commands:
 ```
-     python StudentApp.p
+     python StudentApp.py
 or   flask run
 or   python -m flask run
 ```

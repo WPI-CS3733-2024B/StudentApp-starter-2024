@@ -1,6 +1,6 @@
 
 ------------------------
-## Studen App
+## Student App
 -----------------------
 
 ## Database migrations
